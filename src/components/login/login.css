@@ -1,0 +1,32 @@
+.loginHeader{
+    height:80px;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.39);
+    width:100%;
+    min-width:1200px;
+}
+.loginHeaderContainer{
+    height:80px;
+    margin:0 auto;
+    width:1200px;
+    min-width: 1200px;
+}
+.loginHeader .loginTopName{
+    font-size: 14px;
+    color: #666;
+}
+.loginHeader .loginTopName .logo h3{
+    text-align: center;
+    color: #0085d0;
+    font-size: 20px;
+    font-family: "苹方";
+}
+.loginHeader .loginTopName .logo p{
+    text-align: center;
+    color: #0085d0;
+}
+.loginHeader .loginTopName .logo span{
+    font-size: 14px;
+    padding:0 10px;
+    color: #0085d0;
+}

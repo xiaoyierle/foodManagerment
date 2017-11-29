@@ -1,0 +1,29 @@
+.admin-header{
+    background: white;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.09);
+}
+.admin-content{
+    padding:50px;
+}
+.drop-menu{
+
+}
+.admin-header .drop-a{
+    font-size: 16px;
+    padding-bottom: 15px;
+}
+.admin-header .logo .logoinner h3{
+    text-align: center;
+    color: #0085d0;
+    font-size: 20px;
+    font-family: "苹方";
+}
+.admin-header .logo .logoinner p{
+    text-align: center;
+    color: #0085d0;
+}
+.admin-header .logo .logoinner span{
+    font-size: 14px;
+    padding:0 10px;
+    color: #0085d0;
+}

@@ -1,0 +1,24 @@
+.register{
+    width:100%;
+    min-width:1200px;
+    height:calc(100vh - 80px);
+    background: #12121a;
+    min-height: 500px;
+}
+.register-container{
+    width: 1200px;
+    margin:0 auto;
+    height:100%;
+    background: #12121a url(/imgs/1.png);
+    background-size: cover;
+    position: relative;
+
+}
+.registerBox{
+    position: absolute;
+    width:350px;
+    height:400px;
+    right:18px;
+    top:100px;
+    box-sizing: border-box;
+}
